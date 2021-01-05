@@ -4,7 +4,7 @@
     { "url": "https://github.com/pl31/heroku-buildpack-conda.git" }
   ],
   "env": {
-    "JUPYTER_NOTEBOOK_PASSWORD_DISABLED": 'DangerZone!',
+    "JUPYTER_NOTEBOOK_PASSWORD_DISABLED": "DangerZone!",
     "JUPYTER_NOTEBOOK_PASSWORD": {
       "description": "IMPORTANT! Set a secure password."
     },
